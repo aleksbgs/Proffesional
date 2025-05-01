@@ -33,7 +33,7 @@ POST /itinerary
 ## 🗂 Project Structure
 
 ```
-itinerary-app/
+Proffesional/
 ├── controllers/           # HTTP request handlers
 │   └── itinerary_controller.go
 ├── models/                # Data structures with generics
