@@ -1,4 +1,4 @@
-# Itinerary Reconstruction Web App
+# Reconstruction Web App
 
 This is a Go web application that reconstructs a travel itinerary from a list of flight tickets provided as source-destination pairs. The application uses the **Fiber** framework, follows the **Model-View-Controller (MVC)** pattern, and incorporates **generics** for type flexibility.
 
