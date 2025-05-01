@@ -56,7 +56,7 @@ itinerary-app/
 
 ```bash
 git clone <repository-url>
-cd itinerary-app
+cd proffesional
 ```
 
 ### 2. Install Dependencies
